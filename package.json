@@ -1,0 +1,19 @@
+{
+  "name": "collin-api",
+  "version": "1.0.0",
+  "description": "Making my own API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "author": "Collin Mathews",
+  "license": "ISC",
+  "dependencies": {
+    "date-and-time": "^3.0.0",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
